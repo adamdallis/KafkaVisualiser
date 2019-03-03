@@ -1,3 +1,4 @@
+package com.finallytrycatch.kafkaVisualiser;
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
